@@ -329,7 +329,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deck/Heroic.md",
+                "file": "card/card_group/passing/instant.md",
                 "mode": "source",
                 "source": false
               }
@@ -402,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deck/Heroic.md",
+                "file": "card/card_group/passing/instant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deck/Heroic.md",
+                "file": "card/card_group/passing/instant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deck/Heroic.md"
+                "file": "card/card_group/passing/instant.md"
               }
             }
           }
@@ -455,15 +455,15 @@
   },
   "active": "c8f13318341bfaa5",
   "lastOpenFiles": [
-    "deck/WB_Ephemerate.md",
-    "deck/WUR_Ephemerate.md",
-    "deck/Caw_Gate.md",
-    "deck/Bogles.md",
-    "deck/WR_Boros.md",
-    "deck/Walls.md",
-    "deck/Familiars.md",
-    "deck/GR_Ponza.md",
-    "deck/Affinity.md",
-    "deck/BG_Gardens.md"
+    "card/card_group/passing/sorcery.md",
+    "card/card_group/permanent/artifact.md",
+    "card/card_group/permanent/creature.md",
+    "card/card_group/permanent/enchantment.md",
+    "card/card_group/permanent/enchantment_aura.md",
+    "card/card_group/permanent/land.md",
+    "card/card_group/permanent/planeswalker.md",
+    "card/card_group/passing.md",
+    "card/card_group/permanent.md",
+    "card/card_group/permanent/artifact_equipment.md"
   ]
 }

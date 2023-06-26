@@ -1,1 +1,1 @@
-Spells with a one time effect like 
+Spells with a one time effect like [instants](./passing/instant) and [sorceries](./passing/sorcery).

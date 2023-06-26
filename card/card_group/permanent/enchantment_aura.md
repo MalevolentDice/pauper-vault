@@ -1,1 +1,1 @@
-Enchantments are [enchantmetns](./artifact) which can be attach to creatures to give them boni.
+Auras are [enchantments](./enchantment) which can be attach to creatures to give them boni.
