@@ -135,12 +135,8 @@
             "id": "7519cd0e6593b59c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent/planeswalker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -327,12 +323,8 @@
             "id": "c8f13318341bfaa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/passing/instant.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -402,7 +394,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "card/card_group/passing/instant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +410,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "card/card_group/passing/instant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -441,9 +431,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "card/card_group/passing/instant.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -453,17 +441,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8f13318341bfaa5",
+  "active": "a7766dc6b35f6783",
   "lastOpenFiles": [
-    "card/card_group/passing/sorcery.md",
-    "card/card_group/permanent/artifact.md",
-    "card/card_group/permanent/creature.md",
-    "card/card_group/permanent/enchantment.md",
-    "card/card_group/permanent/enchantment_aura.md",
     "card/card_group/permanent/land.md",
+    "card/card_group/permanent/enchantment_aura.md",
+    "card/card_group/permanent/enchantment.md",
+    "card/card_group/permanent/creature.md",
+    "card/card_group/permanent/artifact_equipment.md",
+    "card/card_group/permanent/artifact.md",
+    "card/card_group/passing/sorcery.md",
+    "card/card_group/passing/instant.md",
     "card/card_group/permanent/planeswalker.md",
-    "card/card_group/passing.md",
-    "card/card_group/permanent.md",
-    "card/card_group/permanent/artifact_equipment.md"
+    "card/card_group/passing.md"
   ]
 }
