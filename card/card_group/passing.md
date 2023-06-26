@@ -1,0 +1,1 @@
+Spells with a one time effect like 

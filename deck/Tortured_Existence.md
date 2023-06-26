@@ -1,0 +1,1 @@
+An archetype using the card Tortured Existence
