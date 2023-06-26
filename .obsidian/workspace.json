@@ -8,107 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a762ffb7162979c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ca3aa9d690ff719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/Tortured_Existence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02f4e9e2084e72df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/GR_Ponza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0144bbae031c13a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/WR_Boros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77be5c0057a9548b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf7294742a81038f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/Tortured_Existence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be997ad64336f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eb5d6a331a9c13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/passing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad25330b455a5712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent/land.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adeae339d02c03f8",
+            "id": "c8f13318341bfaa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,51 +20,19 @@
             }
           },
           {
-            "id": "824c747263b03e49",
+            "id": "736093c23d33e2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "card/card_group/passing/sorcery.md",
+                "file": "card/card_group/passing/instant/ephemerate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7519cd0e6593b59c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eee009167c841347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent/creature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13ab05317799c8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent/enchantment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "168bea1f2136d01f",
+            "id": "1040fb84c05c30d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,161 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bff609691b306910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "card/card_group/permanent/artifact_equipment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748f675b54121a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/U_Faeries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ea632b404605a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/UR_Faeries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef1121513dc1c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/UB_Faeries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b374c8ac320f80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/BG_Gardens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea86a04249ba8881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/GR_Ponza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "534a76602292327f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/Familiars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "721a04153dc8ea67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/WR_Boros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d4cd2aeab7cfcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/Bogles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a381f28d4ddd5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/Caw_Gate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b1920f99997f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/WUR_Ephemerate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99d186ee23a5d774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck/WB_Ephemerate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f13318341bfaa5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -394,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "card/card_group/permanent/artifact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -410,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "card/card_group/permanent/artifact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -431,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "card/card_group/permanent/artifact.md"
+              }
             }
           }
         ]
@@ -441,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7766dc6b35f6783",
+  "active": "1040fb84c05c30d0",
   "lastOpenFiles": [
-    "card/card_group/permanent/land.md",
-    "card/card_group/permanent/enchantment_aura.md",
-    "card/card_group/permanent/enchantment.md",
-    "card/card_group/permanent/creature.md",
     "card/card_group/permanent/artifact_equipment.md",
     "card/card_group/permanent/artifact.md",
+    "card/card_group/passing/instant/ephemerate.md",
     "card/card_group/passing/sorcery.md",
     "card/card_group/passing/instant.md",
+    "Pasted image 20230626175954.png",
     "card/card_group/permanent/planeswalker.md",
-    "card/card_group/passing.md"
+    "card/card_group/permanent/land.md",
+    "card/card_group/permanent/enchantment_aura.md",
+    "card/card_group/permanent/enchantment.md"
   ]
 }
