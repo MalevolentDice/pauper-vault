@@ -1,0 +1,1 @@
+[[Green]] [[creature]] which [recurs](recursion) two [[land]] cards from the [[graveyard]].

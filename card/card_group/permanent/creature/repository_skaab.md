@@ -1,0 +1,1 @@
+[[Blue]] [[creature]] with [[instant]] or [[sorcery]] [[recursion]] on [[exploit]].

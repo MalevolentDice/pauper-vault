@@ -1,1 +1,1 @@
-[[White]] [[exile]] based [[removal]] spell for [[artifact]]s.
+[[White]] [[exile]] based [[removal]] spell for [[artifact]]s and [[enchantment]]s.

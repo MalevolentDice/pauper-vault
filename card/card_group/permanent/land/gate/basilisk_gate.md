@@ -1,0 +1,1 @@
+[[gate]] with an active [[pump]] ability.

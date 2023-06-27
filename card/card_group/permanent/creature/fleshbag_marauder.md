@@ -1,1 +1,1 @@
-A [[creature]] with [[symmetric_effect]] [[sacrifice]] on [[etb]].
+[[Black]] [[creature]] with [[symmetric_effect]] [[sacrifice]] [[removal]] on [[etb]].

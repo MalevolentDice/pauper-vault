@@ -1,1 +1,1 @@
-A [[creature]] with [[enchantment]] [[recursion]] on [[etb]].
+[[White]] [[creature]] with [[enchantment]] [[recursion]] on [[etb]].

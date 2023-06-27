@@ -1,0 +1,1 @@
+Mainly a type of [[artifact]] [[token]] but there are some cards with the food type as well.

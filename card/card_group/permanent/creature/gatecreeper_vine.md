@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[defender]] and [[gate]] [[tutor]] on [[etb]].

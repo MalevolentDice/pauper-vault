@@ -1,0 +1,1 @@
+Targeting a heroic [[creature]] with a spell, activates another ability.

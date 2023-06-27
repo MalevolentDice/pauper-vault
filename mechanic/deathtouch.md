@@ -1,0 +1,1 @@
+A static ability that causes any amount of damage dealt by the source to a [[creature]] to be lethal.

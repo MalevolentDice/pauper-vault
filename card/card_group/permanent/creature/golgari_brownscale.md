@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[dredge]] 2 and [[life_gain]].

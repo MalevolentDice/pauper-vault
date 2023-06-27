@@ -1,0 +1,1 @@
+[[Blue]] [[creature]] with [[defender]] and [[instant]] or [[sorcery]] [[recursion]] on [[etb]].

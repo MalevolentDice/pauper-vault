@@ -1,1 +1,1 @@
-A [[creature]].
+[[Blue]] [[creature]] with [[instant]] or [[sorcery]] [[recursion]] on [[etb]].

@@ -1,1 +1,1 @@
-A [[deck]].
+[[Blue]], [[Black]] [[deck]].

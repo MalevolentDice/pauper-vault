@@ -1,1 +1,1 @@
-A creature with [[madness]] and [[recursion]] of [[creature]]s.
+[[Black]] creature with [[madness]] and [[recursion]] of [[creature]]s.

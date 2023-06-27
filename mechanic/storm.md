@@ -1,0 +1,1 @@
+Storm is a keyword ability that creates a copy of the spell when it's cast, for each spell cast before it in the current turn.

@@ -1,1 +1,1 @@
-A [[creature]] which [[ramp]]s on [[etb]].
+[[Green]] [[creature]] which [[ramp]]s on [[etb]].

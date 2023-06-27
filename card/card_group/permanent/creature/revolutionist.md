@@ -1,0 +1,1 @@
+[[Red]] [[creature]] with [[instant]] or [[sorcery]] [[recursion]] on [[etb]] and [[madness]].

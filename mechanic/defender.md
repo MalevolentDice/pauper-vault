@@ -1,0 +1,1 @@
+Defender is a static ability that renders a creature unable to attack.

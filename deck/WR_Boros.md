@@ -1,1 +1,1 @@
-A [[deck]].
+[[White]], [[Red]] [[deck]].
