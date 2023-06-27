@@ -1,0 +1,1 @@
+Putting a card into the [[graveyard]] from your hand.

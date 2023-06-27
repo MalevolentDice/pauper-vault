@@ -1,0 +1,1 @@
+A [[creature]] which [[ramp]]s on [[etb]].

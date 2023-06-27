@@ -1,0 +1,1 @@
+ A [[symmetric_effect]] [[removal]] spell making both players [[sacrifice]] a [[creature]].

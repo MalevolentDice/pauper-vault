@@ -1,0 +1,1 @@
+A [[deck]] based primarily on having a lot of [[artifact]]s in play to reduce card cost via [[mechanic/affinity|affinity]].

@@ -1,0 +1,1 @@
+A [[creature]] with [[symmetric_effect]] [[sacrifice]] on [[etb]].

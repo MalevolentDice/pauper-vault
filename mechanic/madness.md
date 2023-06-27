@@ -1,0 +1,1 @@
+A mechanic enabling you to cast spells on [[discard]].

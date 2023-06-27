@@ -1,0 +1,1 @@
+A form of [[mana_acceleration]] by adding more [[land]]s into play than the usual one per turn.

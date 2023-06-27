@@ -1,0 +1,1 @@
+A [[creature]] with [[enchantment]] [[recursion]] on [[etb]].

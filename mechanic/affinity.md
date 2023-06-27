@@ -1,0 +1,1 @@
+Reduce mana cost based on presence of certain permanents.

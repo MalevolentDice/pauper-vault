@@ -1,0 +1,1 @@
+Allows casting a spell once from the [[graveyard]].

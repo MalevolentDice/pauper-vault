@@ -1,0 +1,1 @@
+Any effect affecting both players the same way.

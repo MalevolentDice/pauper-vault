@@ -1,0 +1,1 @@
+ A usually [[Colorless]] [[permanent]].

@@ -1,0 +1,1 @@
+Shorthand for effects on "Enters the battlefield".

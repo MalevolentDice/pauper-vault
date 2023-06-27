@@ -1,1 +1,0 @@
-Auras are [enchantments](./enchantment) which can be attach to creatures to give them boni.

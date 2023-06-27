@@ -1,0 +1,1 @@
+An [[aura]] based [[removal]] spell.

@@ -1,0 +1,1 @@
+Recasts a spell on the beginning of the next turn.

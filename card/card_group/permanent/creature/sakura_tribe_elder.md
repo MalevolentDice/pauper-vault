@@ -1,0 +1,1 @@
+A [[creature]] which [[ramp]]s by [sacrificing](sacrifice.md) itself.

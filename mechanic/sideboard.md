@@ -1,0 +1,1 @@
+15 cards in addition to your main [[deck]] allowed to bring in for games 2 and 3.

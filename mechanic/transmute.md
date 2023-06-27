@@ -1,0 +1,1 @@
+A [[tutor]] based on the cards mana value.

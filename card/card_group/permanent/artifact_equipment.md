@@ -1,1 +1,0 @@
-Equipments are [artifacts](./artifact) which can be equipped on creatures to give them boni.

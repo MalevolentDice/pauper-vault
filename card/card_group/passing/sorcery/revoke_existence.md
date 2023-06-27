@@ -1,0 +1,1 @@
+[[White]] [[exile]] based [[removal]] spell for [[artifact]]s.

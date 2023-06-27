@@ -1,0 +1,1 @@
+An [[instant]] which [[flicker]]s two [[artifact]]s, [[creature]]s and/or [[land]]s.
