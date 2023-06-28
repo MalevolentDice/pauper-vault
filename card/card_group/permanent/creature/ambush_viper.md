@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[flash]] and [[deathtouch]].

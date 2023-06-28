@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with -1/-1 [[counter]] [[removal]] on [[sacrifice]].

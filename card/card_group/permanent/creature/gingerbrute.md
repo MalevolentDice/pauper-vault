@@ -1,0 +1,1 @@
+[[artifact]] [[creature]] [[food]] with [[haste]] and [[evasion]].

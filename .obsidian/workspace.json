@@ -4,20 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4cfa5136668490",
+        "id": "78b11e292162e6e0",
         "type": "tabs",
+        "dimension": 38.26142131979696,
         "children": [
           {
-            "id": "3a293fbc34876666",
+            "id": "9c3d9df1da853aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "card/card_group/permanent/creature/cauldron_familiar.md",
+                "file": "deck/Tortured_Existence.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "9540de33f6319799"
+          }
+        ]
+      },
+      {
+        "id": "437cdee49316fc07",
+        "type": "tabs",
+        "dimension": 61.73857868020305,
+        "children": [
+          {
+            "id": "512c12b0827483aa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "deck/Tortured_Existence.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "\"Black\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "\"Red\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "\"Blue\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
+                      }
+                    },
+                    {
+                      "query": "\"Green\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    },
+                    {
+                      "query": "\"White\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16776960
+                      }
+                    },
+                    {
+                      "query": "\"Artifact\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6572323
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            },
+            "group": "9540de33f6319799"
           }
         ]
       }
@@ -93,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "card/card_group/permanent/creature/cauldron_familiar.md",
+                "file": "deck/Tortured_Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "card/card_group/permanent/creature/cauldron_familiar.md",
+                "file": "deck/Tortured_Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "card/card_group/permanent/creature/cauldron_familiar.md"
+                "file": "deck/Tortured_Existence.md"
               }
             }
           }
@@ -154,35 +242,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a293fbc34876666",
+  "active": "9c3d9df1da853aab",
   "lastOpenFiles": [
-    "card/card_group/permanent/creature/cauldron_familiar.md",
-    "deck/WUR_Ephemerate.md",
-    "deck/WR_Boros.md",
-    "deck/WB_Ephemerate.md",
-    "deck/Walls.md",
-    "deck/UR_Faeries.md",
-    "deck/UB_Horror.md",
-    "deck/UB_Faeries.md",
-    "deck/U_Faeries.md",
+    "card/card_group/permanent/creature/stinkweed_imp.md",
     "deck/Tortured_Existence.md",
-    "deck/Heroic.md",
-    "deck/GR_Ponza.md",
-    "deck/Familiars.md",
-    "deck/Caw_Gate.md",
-    "deck/Burn.md",
-    "deck/Bogles.md",
-    "mechanic/hexproof.md",
-    "deck/BG_Gardens.md",
-    "deck/Affinity.md",
-    "card/card_group/permanent/land/gate/basilisk_gate.md",
-    "mechanic/pump.md",
+    "card/card_group/permanent/enchantment/tortured_existence.md",
+    "mechanic/color/Black.md",
+    "card/card_group/permanent/creature/insolent_neonate.md",
+    "mechanic/dredge.md",
+    "mechanic/recursion.md",
+    "card/card_group/passing/instant/brainstorm.md",
+    "card/card_group/permanent/creature/cauldron_familiar.md",
+    "mechanic/menace.md",
+    "card/card_group/permanent/creature/voldaren_epicure.md",
+    "card/card_group/passing/instant/tolarian_winds.md",
+    "card/card_group/permanent/creature/cathar_commando.md",
+    "card/card_group/permanent/creature/safehold_elite.md",
+    "mechanic/color/Multi_Colored.md",
+    "card/card_group/permanent/creature/ivy_lane_denizen.md",
+    "mechanic/persist.md",
+    "card/card_group/permanent/artifact/blood_fountain.md",
+    "mechanic/blood_token.md",
+    "card/card_group/permanent/creature/perilous_myr.md",
+    "card/card_group/permanent/artifact.md",
+    "card/card_group/permanent/creature/banehound.md",
+    "card/card_group/permanent/creature/slither_blade.md",
+    "mechanic/draw.md",
+    "mechanic/library.md",
+    "card/card_group/permanent/creature/squadron_hawk.md",
+    "deck/tortured_existence",
     "card/card_group/permanent/land/gate",
-    "card/card_group/permanent/creature/gatecreeper_vine.md",
-    "card/card_group/permanent/creature/masked_vandal.md",
-    "mechanic/changeling.md",
-    "card/card_group/permanent/creature/kitchen_imp.md",
-    "mechanic/haste.md",
     "card/card_group/permanent/land",
     "Untitled.canvas",
     "card/card_group/permanent/artifact",

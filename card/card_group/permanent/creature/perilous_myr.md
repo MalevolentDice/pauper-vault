@@ -1,0 +1,1 @@
+[[artifact]] [[creature]] with [[damage]] based [[removal]] on [[death]].

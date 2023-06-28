@@ -1,1 +1,1 @@
-An [[aura]] based [[removal]] spell.
+[[Black]] [[aura]] based [[removal]] spell.

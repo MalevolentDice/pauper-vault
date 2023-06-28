@@ -1,1 +1,1 @@
-An [[aura]].
+[[Blue]] [[aura]].

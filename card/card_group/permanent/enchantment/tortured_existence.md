@@ -1,1 +1,1 @@
-An [[enchantment]]. The primary engine in the [[deck/Tortured_Existence|Tortured_Existence]] deck.
+[[Black]] [[enchantment]]. The primary engine in the [[deck/Tortured_Existence|Tortured_Existence]] deck.

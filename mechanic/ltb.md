@@ -1,0 +1,1 @@
+Shorthand for effects on "Leaves the battlefield".

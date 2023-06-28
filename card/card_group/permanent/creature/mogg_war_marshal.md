@@ -1,0 +1,1 @@
+[[Red]] [[creature]] with [[token]] generation on [[etb]] and [[ltb]].

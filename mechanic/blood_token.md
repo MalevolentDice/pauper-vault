@@ -1,0 +1,1 @@
+Type of [[token]] allow [[card_selection]] by [[draw]] and [[discard]].

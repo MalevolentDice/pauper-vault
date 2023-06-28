@@ -1,0 +1,1 @@
+[[Red]] [[creature]] pinging for 1 and creating a [[blood_token]] on [[etb]].

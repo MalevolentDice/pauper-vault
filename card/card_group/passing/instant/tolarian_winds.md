@@ -1,0 +1,1 @@
+[[Blue]] [[instant]] letting you [[discard]] and re[[draw]] your entire hand.

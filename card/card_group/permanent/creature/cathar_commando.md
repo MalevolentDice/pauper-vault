@@ -1,0 +1,1 @@
+[[White]] [[creature]] with [[flash]] and [[artifact]] or [[enchantment]] removal on [[sacrifice]].

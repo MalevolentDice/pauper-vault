@@ -1,0 +1,1 @@
+Self [[recursion]] effect on a creature creating a [[token]] copy.

@@ -1,0 +1,1 @@
+[[White]] [[creature]] with [[life_gain]] on taking [[damage]].

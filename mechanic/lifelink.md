@@ -1,0 +1,1 @@
+[[life_gain]] based on [[creature]]s damage.

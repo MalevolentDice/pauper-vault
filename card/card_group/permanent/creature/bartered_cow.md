@@ -1,0 +1,1 @@
+[[White]] [[creature]] with [[food]] creation on [[discard]].

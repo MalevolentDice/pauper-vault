@@ -1,0 +1,1 @@
+[[Red]] [[instant]] [[removal]] spell with self [[recursion]].

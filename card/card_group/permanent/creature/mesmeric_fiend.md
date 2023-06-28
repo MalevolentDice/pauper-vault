@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with [[hand_disruption]] on [[etb]].
