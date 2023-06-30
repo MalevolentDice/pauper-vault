@@ -1,0 +1,1 @@
+[[Blue]] [[saga]] with a [[discard]] and [[draw]] effect which turns into a [[flying]] 2/3.

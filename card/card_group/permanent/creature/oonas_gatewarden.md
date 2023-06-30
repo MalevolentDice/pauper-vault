@@ -1,0 +1,1 @@
+[[Multi_Colored]] [[Black]] [[Blue]] [[flying]] [[creature]] with [[wither]].

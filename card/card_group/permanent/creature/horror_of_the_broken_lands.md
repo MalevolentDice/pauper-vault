@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with [[cycling]] and [[pump]] on [[cycling]] or [[discard]].

@@ -1,0 +1,1 @@
+[[Black]] [[sorcery]] with [[creature]] [[recursion]] and a [[Green]] [[kicker]] for [[permanent]] [[recursion]].

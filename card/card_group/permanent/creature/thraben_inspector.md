@@ -1,0 +1,1 @@
+[[White]] [[creature]] with [[clue]] creation on [[etb]].

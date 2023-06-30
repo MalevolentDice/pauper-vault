@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with [[symmetric_effect]] [[damage]] ping.

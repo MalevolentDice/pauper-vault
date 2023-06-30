@@ -1,0 +1,1 @@
+[[Red]] [[enchantment]] with [[card_selection]] by [[discard]] and [[draw]] on [[etb]]. Can [[sacrifice]] to give [[haste]].

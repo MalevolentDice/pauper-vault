@@ -1,0 +1,1 @@
+[[artifact]] [[token]] which [[draw]]s a card on [[sacrifice]].

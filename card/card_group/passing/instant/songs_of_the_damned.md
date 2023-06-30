@@ -1,0 +1,1 @@
+[[instant]] [[ritual]] granting [[Black]] mana based on [[creature]]s in [[graveyard]].

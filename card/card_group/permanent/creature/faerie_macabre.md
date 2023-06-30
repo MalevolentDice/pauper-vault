@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with [[graveyard_hate]] on discard.

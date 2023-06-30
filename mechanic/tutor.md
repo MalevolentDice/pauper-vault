@@ -1,1 +1,1 @@
-Any effect allowing you to search your library for a specific card.
+Any effect allowing you to search your library for a specific card and [[shuffle]] it.

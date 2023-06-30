@@ -1,0 +1,1 @@
+[[Blue]] [[aura]] grants [[flying]] and +1/+1. Self [[recursion]] on [[ninja]] [[etb]].

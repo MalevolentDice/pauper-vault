@@ -1,0 +1,1 @@
+[[Black]] [[instant]] with [[flashback]] and [[graveyard_hate]]. Creates [[token]] with [[decayed]].

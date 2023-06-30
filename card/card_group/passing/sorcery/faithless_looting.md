@@ -1,0 +1,1 @@
+[[Red]] [[sorcery]] with [[flash]] which provides [[card_selection]] with [[draw]] and [[discard]].

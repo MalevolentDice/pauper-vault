@@ -1,0 +1,1 @@
+[[Red]] creature with [[artifact]] [[removal]].

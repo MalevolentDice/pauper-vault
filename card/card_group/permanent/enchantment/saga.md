@@ -1,0 +1,1 @@
+[[enchantment]] which turns into a [[creature]].
