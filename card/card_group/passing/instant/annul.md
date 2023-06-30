@@ -1,0 +1,1 @@
+[[Blue]] [[instant]] [[artifact]] or [[enchantment]] [[counter_spell]].

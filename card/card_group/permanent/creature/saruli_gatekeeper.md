@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[life_gain]] on [[etb]] if you control 2 [[gate]]s.

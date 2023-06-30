@@ -31,6 +31,8 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[disowned_ancestor]]
 * [[faerie_macabre]]
 * [[songs_of_the_damned]]
+* [[sanitarium_skeleton]]
+* [[clay_revenant]]
 
 ### Green
 * [[sakura_tribe_elder]]
@@ -48,6 +50,7 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[young_wolf]]
 * [[floriferous_vinewall]]
 * [[jewel_thief]]
+* [[saruli_gatekeeper]]
 
 ### White
 * [[heliods_pilgrim]]

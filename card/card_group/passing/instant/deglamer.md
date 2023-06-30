@@ -1,0 +1,1 @@
+[[Green]] [[instant]] speed [[artifact]] or [[enchantment]] [[removal]] with [[exile]].

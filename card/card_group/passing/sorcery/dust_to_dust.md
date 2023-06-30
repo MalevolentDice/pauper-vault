@@ -1,1 +1,1 @@
-[[White]] [[exile]] based [[removal]] for two [[artifact]]s. Good [[sideboard]] card.
+[[White]] [[exile]] based [[removal]] for two [[artifact]]s.

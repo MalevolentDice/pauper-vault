@@ -6,7 +6,7 @@
       {
         "id": "78b11e292162e6e0",
         "type": "tabs",
-        "dimension": 38.26142131979696,
+        "dimension": 55.346489215236346,
         "children": [
           {
             "id": "9c3d9df1da853aab",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "card/card_group/permanent/creature/crypt_rat.md",
+                "file": "deck/sideboard/vs_affinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,9 +24,9 @@
         ]
       },
       {
-        "id": "437cdee49316fc07",
+        "id": "2652fcf2c1b61752",
         "type": "tabs",
-        "dimension": 61.73857868020305,
+        "dimension": 44.65351078476365,
         "children": [
           {
             "id": "512c12b0827483aa",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "card/card_group/permanent/creature/crypt_rat.md",
+                "file": "deck/sideboard/vs_affinity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "card/card_group/permanent/creature/crypt_rat.md",
+                "file": "deck/sideboard/vs_affinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "card/card_group/permanent/creature/crypt_rat.md",
+                "file": "deck/sideboard/vs_affinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "card/card_group/permanent/creature/crypt_rat.md"
+                "file": "deck/sideboard/vs_affinity.md"
               }
             }
           }
@@ -244,32 +244,33 @@
   },
   "active": "9c3d9df1da853aab",
   "lastOpenFiles": [
-    "card/card_group/permanent/creature/kor_skyfisher.md",
-    "card/card_group/permanent/creature/thraben_inspector.md",
-    "mechanic/clue.md",
-    "deck/Tortured_Existence.md",
+    "card/card_group/passing/instant/ancient_grudge.md",
+    "deck/sideboard/vs_affinity.md",
+    "mechanic/counter_permanent.md",
+    "mechanic/counter_spell.md",
+    "card/card_group/passing/instant/annul.md",
+    "card/card_group/passing/sorcery/swirling_sandstorm.md",
+    "mechanic/threshold.md",
+    "card/card_group/passing/instant/cast_into_the_fire.md",
+    "card/card_group/passing/sorcery/smash_to_dust.md",
+    "card/card_group/passing/instant/deglamer.md",
+    "card/card_group/permanent/creature/gorilla_shaman.md",
+    "card/card_group/passing/sorcery/dust_to_dust.md",
+    "deck/sideboard.md",
+    "mechanic/affinity.md",
     "deck/Affinity.md",
-    "card/card_group/passing/instant/songs_of_the_damned.md",
-    "mechanic/ritual.md",
-    "card/card_group/permanent/creature/arboreal_grazer.md",
-    "card/card_group/permanent/creature/writhing_necromass.md",
-    "card/card_group/permanent/creature/gurmag_angler.md",
-    "card/card_group/permanent/enchantment/omen_of_the_dead.md",
-    "card/card_group/passing/instant/rotten_reunion.md",
-    "card/card_group/permanent/creature/jewel_thief.md",
-    "card/card_group/permanent/creature/faerie_macabre.md",
-    "mechanic/graveyard_hate.md",
-    "card/card_group/permanent/creature/floriferous_vinewall.md",
-    "card/card_group/permanent/creature/tethmos_high_priest.md",
-    "mechanic/treasure.md",
-    "mechanic/vigilance.md",
-    "mechanic/trample.md",
-    "card/card_group/permanent/land/karoo.md",
-    "card/card_group/permanent/creature/auramancer.md",
-    "card/card_group/permanent/creature/sacred_cat.md",
-    "card/card_group/permanent/land/gate/basilisk_gate.md",
-    "card/card_group/permanent/creature/gatecreeper_vine.md",
-    "card/card_group/permanent/enchantment/bitter_reunion.md",
+    "card/card_group/permanent/creature/fangren_marauder.md",
+    "deck/sideboard/vs_burn.md",
+    "deck/Tortured_Existence.md",
+    "deck/UB_Faeries.md",
+    "card/card_group/permanent/creature/saruli_gatekeeper.md",
+    "card/card_group/passing/instant/weather_the_storm.md",
+    "deck/sideboard",
+    "card/card_group/permanent/enchantment/aura/freed_from_the_real.md",
+    "card/card_group/permanent/enchantment/aura/wind_zendikon.md",
+    "card/card_group/permanent/creature/sanitarium_skeleton.md",
+    "card/card_group/permanent/creature/clay_revenant.md",
+    "card/card_group/permanent/creature/crypt_rat.md",
     "card/card_group/permanent/enchantment/saga",
     "deck/tortured_existence",
     "card/card_group/permanent/land/gate",
@@ -280,7 +281,6 @@
     "mechanic/combo",
     "card/card_group/permanent/enchantment/aura",
     "mechanic/color",
-    "card/card_group/permanent/enchantment",
     "Pasted image 20230626175954.png"
   ]
 }

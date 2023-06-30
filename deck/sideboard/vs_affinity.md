@@ -1,0 +1,12 @@
+[[sideboard]] cards good against [[deck/Affinity|Affinity]]
+
+* [[gorilla_shaman]]
+* [[masked_vandal]]
+* [[dust_to_dust]]
+* [[fangren_marauder]]
+* [[revoke_existence]]
+* [[deglamer]]
+* [[cast_into_the_fire]]
+* [[smash_to_dust]]
+* [[annul]]
+* [[ancient_grudge]]

@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[life_gain]] whenever an [[artifact]] goes to the [[graveyard]].

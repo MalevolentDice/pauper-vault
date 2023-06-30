@@ -1,0 +1,1 @@
+Threshold is an ability word that gives a card different or additional characteristics if its controller has seven or more cards in their graveyard.

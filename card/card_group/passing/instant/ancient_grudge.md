@@ -1,0 +1,1 @@
+[[Red]] [[instant]] [[artifact]] [[removal]] with [[Green]] [[flashback]].

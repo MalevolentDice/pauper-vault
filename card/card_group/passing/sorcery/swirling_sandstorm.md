@@ -1,0 +1,1 @@
+[[Red]] [[sorcery]] 5 [[damage]] [[sweeper]] with [[threshold]] requirement.

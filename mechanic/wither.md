@@ -1,1 +1,1 @@
-[[damage]] done with wither turns into -1/-1 [[counter]]s.
+[[damage]] done with wither turns into -1/-1 [[counter_permanent]]s.
