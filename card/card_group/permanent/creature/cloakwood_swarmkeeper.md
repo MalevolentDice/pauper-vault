@@ -1,1 +1,1 @@
-[[Green]] [[creature]] whcih grows with +1/+1 [[counter_permanent]]s on [[token]] creation.
+[[Green]] [[creature]] whcih grows with +1/+1 [[counter]]s on [[token]] creation.

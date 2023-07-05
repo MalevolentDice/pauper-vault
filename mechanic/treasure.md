@@ -1,1 +1,1 @@
-Type of [[token]]
+[[artifact]] [[token]] which can be [[sacrifice]]d for 1 mana.

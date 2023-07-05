@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deck/sideboard/vs_affinity.md",
+                "file": "mechanic/incubate.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "deck/sideboard/vs_affinity.md",
+                "file": "mechanic/incubate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +100,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.4444444444444444,
                   "close": true
                 }
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deck/sideboard/vs_affinity.md",
+                "file": "mechanic/incubate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deck/sideboard/vs_affinity.md",
+                "file": "mechanic/incubate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deck/sideboard/vs_affinity.md"
+                "file": "mechanic/incubate.md"
               }
             }
           }
@@ -244,33 +244,33 @@
   },
   "active": "9c3d9df1da853aab",
   "lastOpenFiles": [
-    "card/card_group/passing/instant/ancient_grudge.md",
-    "deck/sideboard/vs_affinity.md",
-    "mechanic/counter_permanent.md",
+    "mechanic/blood_token.md",
+    "mechanic/incubate.md",
+    "mechanic/clue.md",
+    "mechanic/decayed.md",
+    "mechanic/token.md",
+    "mechanic/embalm.md",
+    "card/card_group/permanent/creature/carrion_feeder.md",
     "mechanic/counter_spell.md",
+    "mechanic/counter.md",
+    "mechanic/food.md",
+    "card/card_group/permanent/artifact/blood_fountain.md",
+    "mechanic/treasure.md",
+    "card/card_group/permanent/creature/mogg_war_marshal.md",
+    "card/card_group/permanent/creature/jewel_thief.md",
+    "deck/Tortured_Existence.md",
+    "card/card_group/permanent/creature/kor_skyfisher.md",
+    "card/card_group/permanent/creature/saruli_gatekeeper.md",
+    "deck.md",
+    "deck/sideboard.md",
+    "deck/sideboard/vs_burn.md",
+    "deck/Burn.md",
+    "deck/sideboard/vs_affinity.md",
+    "card/card_group/passing/instant/ancient_grudge.md",
     "card/card_group/passing/instant/annul.md",
     "card/card_group/passing/sorcery/swirling_sandstorm.md",
     "mechanic/threshold.md",
-    "card/card_group/passing/instant/cast_into_the_fire.md",
-    "card/card_group/passing/sorcery/smash_to_dust.md",
-    "card/card_group/passing/instant/deglamer.md",
-    "card/card_group/permanent/creature/gorilla_shaman.md",
-    "card/card_group/passing/sorcery/dust_to_dust.md",
-    "deck/sideboard.md",
-    "mechanic/affinity.md",
-    "deck/Affinity.md",
-    "card/card_group/permanent/creature/fangren_marauder.md",
-    "deck/sideboard/vs_burn.md",
-    "deck/Tortured_Existence.md",
-    "deck/UB_Faeries.md",
-    "card/card_group/permanent/creature/saruli_gatekeeper.md",
-    "card/card_group/passing/instant/weather_the_storm.md",
     "deck/sideboard",
-    "card/card_group/permanent/enchantment/aura/freed_from_the_real.md",
-    "card/card_group/permanent/enchantment/aura/wind_zendikon.md",
-    "card/card_group/permanent/creature/sanitarium_skeleton.md",
-    "card/card_group/permanent/creature/clay_revenant.md",
-    "card/card_group/permanent/creature/crypt_rat.md",
     "card/card_group/permanent/enchantment/saga",
     "deck/tortured_existence",
     "card/card_group/permanent/land/gate",

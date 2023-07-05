@@ -1,1 +1,1 @@
-Type of [[token]] allow [[card_selection]] by [[draw]] and [[discard]].
+[[artifact]] [[token]] which allows [[card_selection]] by [[draw]] and [[discard]] on [[sacrifice]].

@@ -1,0 +1,1 @@
+[[artifact]] [[token]] which can be transformed for 2 mana into a [[creature]].

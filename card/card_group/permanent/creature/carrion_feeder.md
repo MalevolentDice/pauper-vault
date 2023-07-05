@@ -1,1 +1,1 @@
-[[Black]] [[creature]] with an active [[sacrifice]] ability to grow itself with +1/+1 [[token]]s.
+[[Black]] [[creature]] with an active [[sacrifice]] ability to grow itself with +1/+1 [[counter]]s.

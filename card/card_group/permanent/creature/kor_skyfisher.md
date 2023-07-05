@@ -4,3 +4,4 @@
 * [[thraben_inspector]]
 * [[gatecreeper_vine]]
 * [[floriferous_vinewall]]
+* [[arboreal_grazer]]

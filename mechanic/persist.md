@@ -1,1 +1,1 @@
-Self [[recursion]] with a -1/-1 [[counter_permanent]].
+Self [[recursion]] with a -1/-1 [[counter]].
