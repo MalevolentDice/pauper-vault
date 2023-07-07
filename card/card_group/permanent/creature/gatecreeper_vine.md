@@ -1,3 +1,3 @@
-[[Green]] [[creature]] with [[defender]] and [[gate]] [[tutor]] on [[etb]].
+[[Green]] [[creature]] with [[defender]] and [[gate]] [[land]] [[tutor]] on [[etb]].
 ## Synergy
 * [[basilisk_gate]]

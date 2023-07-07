@@ -1,1 +1,1 @@
-[[Black]] [[artifact]] with [[creature]] [[recursion]] and [[blood_token]] creation on [[etb]].
+[[Black]] [[artifact]] with [[creature]] [[recursion]] and [[blood]] [[token]] creation on [[etb]].

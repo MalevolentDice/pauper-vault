@@ -1,0 +1,1 @@
+[[Red]] [[aura]] with self [[bounce]]. Grants self [[firebreathing]].

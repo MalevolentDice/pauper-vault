@@ -1,0 +1,1 @@
+[[Red]] [[creature]] with [[damage]] based [[sweeper]] by [[artifact]] [[sacrifice]].

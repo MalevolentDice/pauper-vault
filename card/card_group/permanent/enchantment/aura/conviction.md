@@ -1,0 +1,1 @@
+[[White]] [[aura]] with self [[bounce]]. Grants +1/+3.

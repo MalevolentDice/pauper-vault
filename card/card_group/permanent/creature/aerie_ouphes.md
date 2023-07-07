@@ -1,0 +1,1 @@
+[[Green]] [[creature]] with [[persist]] and [[flying]] [[creature]] [[removal]] on [[sacrifice]].

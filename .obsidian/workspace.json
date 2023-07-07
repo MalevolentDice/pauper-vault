@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mechanic/incubate.md",
+                "file": "mechanic/removal.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mechanic/incubate.md",
+                "file": "mechanic/removal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -95,7 +95,7 @@
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanic/incubate.md",
+                "file": "mechanic/removal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mechanic/incubate.md",
+                "file": "mechanic/removal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mechanic/incubate.md"
+                "file": "mechanic/removal.md"
               }
             }
           }
@@ -244,32 +244,33 @@
   },
   "active": "9c3d9df1da853aab",
   "lastOpenFiles": [
-    "mechanic/blood_token.md",
-    "mechanic/incubate.md",
-    "mechanic/clue.md",
-    "mechanic/decayed.md",
-    "mechanic/token.md",
-    "mechanic/embalm.md",
-    "card/card_group/permanent/creature/carrion_feeder.md",
-    "mechanic/counter_spell.md",
-    "mechanic/counter.md",
-    "mechanic/food.md",
-    "card/card_group/permanent/artifact/blood_fountain.md",
-    "mechanic/treasure.md",
-    "card/card_group/permanent/creature/mogg_war_marshal.md",
-    "card/card_group/permanent/creature/jewel_thief.md",
+    "card/card_group/permanent/creature/fleshbag_marauder.md",
     "deck/Tortured_Existence.md",
-    "card/card_group/permanent/creature/kor_skyfisher.md",
-    "card/card_group/permanent/creature/saruli_gatekeeper.md",
-    "deck.md",
-    "deck/sideboard.md",
-    "deck/sideboard/vs_burn.md",
-    "deck/Burn.md",
-    "deck/sideboard/vs_affinity.md",
-    "card/card_group/passing/instant/ancient_grudge.md",
-    "card/card_group/passing/instant/annul.md",
-    "card/card_group/passing/sorcery/swirling_sandstorm.md",
-    "mechanic/threshold.md",
+    "card/card_group/permanent/creature/sanitarium_skeleton.md",
+    "card/card_group/permanent/creature/clay_revenant.md",
+    "card/card_group/permanent/land/gate/basilisk_gate.md",
+    "card/card_group/permanent/creature/auramancer.md",
+    "card/card_group/permanent/creature/qasali_pridemage.md",
+    "card/card_group/permanent/creature/heliods_pilgrim.md",
+    "card/card_group/permanent/creature/aerie_ouphes.md",
+    "mechanic/persist.md",
+    "card/card_group/permanent/creature/tethmos_high_priest.md",
+    "card/card_group/permanent/creature/rendclaw_trow.md",
+    "card/card_group/permanent/creature/grazing_kelpie.md",
+    "card/card_group/permanent/creature/safehold_elite.md",
+    "mechanic/token.md",
+    "card/card_group/permanent/creature/Untitled",
+    "card/card_group/permanent/creature/putrid_goblin.md",
+    "card/card_group/permanent/enchantment/aura/crown_of_flames.md",
+    "card/card_group/permanent/enchantment/aura/ghitu_firebreathing.md",
+    "mechanic/firebreathing.md",
+    "card/card_group/permanent/enchantment/aura/mourning.md",
+    "mechanic/recursion.md",
+    "card/card_group/permanent/enchantment/aura/conviction.md",
+    "mechanic/reach.md",
+    "card/card_group/permanent/enchantment/aura/whip_silk.md",
+    "card/card_group/permanent/enchantment/aura/shimmering_wings.md",
+    "card/card_group/permanent/artifact/blood_fountain.md",
     "deck/sideboard",
     "card/card_group/permanent/enchantment/saga",
     "deck/tortured_existence",
@@ -280,7 +281,6 @@
     "card/card_group/passing/sorcery",
     "mechanic/combo",
     "card/card_group/permanent/enchantment/aura",
-    "mechanic/color",
     "Pasted image 20230626175954.png"
   ]
 }

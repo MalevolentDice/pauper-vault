@@ -33,6 +33,7 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[songs_of_the_damned]]
 * [[sanitarium_skeleton]]
 * [[clay_revenant]]
+* [[putrid_goblin]]
 
 ### Green
 * [[sakura_tribe_elder]]
@@ -95,3 +96,6 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 ### Green/White
 * [[safehold_elite]]
 * [[oonas_gatewarden]]
+* [[qasali_pridemage]]
+* [[rendclaw_trow]]
+* [[grazing_kelpie]]

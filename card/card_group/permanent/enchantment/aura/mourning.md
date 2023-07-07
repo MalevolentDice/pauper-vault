@@ -1,0 +1,1 @@
+[[Black]] [[aura]] with self [[bounce]]. Grants -2/-0.

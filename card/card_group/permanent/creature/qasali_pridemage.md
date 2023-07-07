@@ -1,0 +1,1 @@
+[[Green]] [[White]] [[Multi_Colored]] [[creature]] with [[exalted]] and [[artifact]] or [[enchantment]] [[removal]] on [[sacrifice]].

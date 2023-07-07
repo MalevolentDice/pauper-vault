@@ -1,0 +1,1 @@
+Shorthand for +1/+0 or similar effects for 1 mana.
