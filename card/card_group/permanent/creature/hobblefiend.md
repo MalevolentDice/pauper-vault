@@ -1,0 +1,1 @@
+[[Red]] [[creature]] with [[trample]] and [[sacrifice]] a [[creature]] to self [[pump]] with +1/+1 [[counter]]s.

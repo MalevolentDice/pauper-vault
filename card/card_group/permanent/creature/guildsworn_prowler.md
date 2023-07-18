@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with [[deathtouch]] and potential card [[draw]] on death.

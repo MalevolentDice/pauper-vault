@@ -1,0 +1,1 @@
+[[Black]] [[creature]] with either a [[lifelink]] or [[deathtouch]] [[counter]].

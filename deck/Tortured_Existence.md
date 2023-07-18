@@ -34,6 +34,8 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[sanitarium_skeleton]]
 * [[clay_revenant]]
 * [[putrid_goblin]]
+* [[guildsworn_prowler]]
+* [[boot_nipper]]
 
 ### Green
 * [[sakura_tribe_elder]]
@@ -86,6 +88,7 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[insolent_neonate]]
 * [[gorilla_shaman]]
 * [[bitter_reunion]]
+* [[hobblefiend]]
 
 ### Colorless//Artifacts
 * [[perilous_myr]]
@@ -99,3 +102,6 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[qasali_pridemage]]
 * [[rendclaw_trow]]
 * [[grazing_kelpie]]
+* [[needlethorn_drake]]
+* [[tidehollow_strix]]
+* [[winged_coatl]]
