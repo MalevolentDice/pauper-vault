@@ -1,1 +1,1 @@
-[[Green]] [[creature]] with [[flying]] [[sweeper]] [[removal]] on [[tab]].
+[[Green]] [[creature]] with [[flying]] [[sweeper]] [[removal]] on [[tap]].

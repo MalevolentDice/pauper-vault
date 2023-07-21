@@ -1,1 +1,1 @@
-[[Green]] [[creature]] with [[tab]] based [[ramp]].
+[[Green]] [[creature]] with [[tap]] based [[ramp]].

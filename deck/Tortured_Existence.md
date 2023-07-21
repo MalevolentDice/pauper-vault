@@ -54,6 +54,7 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[floriferous_vinewall]]
 * [[jewel_thief]]
 * [[saruli_gatekeeper]]
+* [[careful_cultivation]]
 
 ### White
 * [[heliods_pilgrim]]
@@ -94,6 +95,7 @@ Might use [[karoo]] and/or [[gate]] [[land]]s.
 * [[perilous_myr]]
 * [[gingerbrute]]
 * [[basilisk_gate]]
+* [[pili-pala]]
 
 ## Multi_colored
 ### Green/White

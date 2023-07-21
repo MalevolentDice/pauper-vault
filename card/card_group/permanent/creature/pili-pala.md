@@ -1,0 +1,1 @@
+[[artifact]] [[creature]] with [[mana_filter]] on [[untap]]. Generates infinite mana with [[careful_cultivation]].
